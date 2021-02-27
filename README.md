@@ -8,3 +8,5 @@ A sample image for challenge-1
 In Challenge-1, the goal was to perform object detection classification into 330 classes of products. The images were synthetic images for both training and testing.
 
 In Challenge-2, the goal was to perform object detection on real images and trained using both synthetic and real images.
+
+The drive folder mentioned frequently throughout the project - https://drive.google.com/drive/folders/1qFCpsqTtpLnwx7JXEKNGAmNTpIsgmsk2?usp=sharing
